@@ -1,0 +1,6 @@
+{
+  "name": "Snack Expo",
+  "description": "Snack Expo - A masterfully designed mobile-first recipe app showcasing a plethora of curated and custom treats with live rating and review mechanics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
